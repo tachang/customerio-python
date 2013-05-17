@@ -1,2 +1,6 @@
 *.pyc
 *.pyo
+build
+customerio.egg-info
+dist
+

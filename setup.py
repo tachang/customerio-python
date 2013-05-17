@@ -1,6 +1,6 @@
 import os
-from distutils.core import setup
-
+#from distutils.core import setup
+from setuptools import setup, find_packages
 
 package_name = "customerio"
 package_dir = "customerio"
